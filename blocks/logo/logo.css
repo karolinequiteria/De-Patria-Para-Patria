@@ -1,5 +1,4 @@
 .logo {
-  width: 16.875rem;
-  height: 4.375rem;
+  max-width: 16.875rem;
   margin: 2.125rem auto 5.625rem;
 }
