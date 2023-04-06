@@ -1,0 +1,8 @@
+.banner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 61.5rem;
+  height: 61.4375rem;
+  margin: 0 auto;
+}
