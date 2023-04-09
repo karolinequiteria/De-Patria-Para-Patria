@@ -15,3 +15,10 @@
 @import url(/blocks/banner/__title/banner__title.css);
 @import url(/blocks/banner/__subtitle/banner__subtitle.css);
 @import url(/blocks/banner/__image/banner__image.css);
+
+/* --------------INTRO--------------- */
+@import url(/blocks/intro/intro.css);
+@import url(/blocks/intro/__title/intro__title.css);
+@import url(/blocks/intro/__quote/intro__quote.css);
+@import url(/blocks/intro/__quote-author/intro__quote-author.css);
+@import url(/blocks/intro/__text/intro__text.css);
