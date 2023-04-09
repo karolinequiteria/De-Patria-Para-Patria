@@ -22,3 +22,9 @@
 @import url(/blocks/intro/__quote/intro__quote.css);
 @import url(/blocks/intro/__quote-author/intro__quote-author.css);
 @import url(/blocks/intro/__text/intro__text.css);
+
+/* --------------PHOTO-GRID--------------- */
+@import url(/blocks/photo-grid/photo-grid.css);
+@import url(/blocks/photo-grid/__table/photo-grid__table.css);
+@import url(/blocks/photo-grid/__item/photo-grid__item.css);
+@import url(/blocks/photo-grid/__image/photo-grid__image.css);
