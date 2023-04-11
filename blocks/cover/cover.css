@@ -3,6 +3,6 @@
   max-width: 74rem;
   min-height: 46.25rem;
   background-image: url(/images/cover/cover.jpg);
-  background-size: contain;
+  background-size: cover;
   margin: 0 auto 5.75rem;
 }
