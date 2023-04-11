@@ -1,8 +1,8 @@
 .page {
   background: #2a2c2f;
-  min-width: 1280px;
+  min-width: 1100px;
+  max-width: 1280px;
   font-family: "Inter", sans-serif;
   color: #ffffff;
-  display: flex;
-  justify-content: center;
+  margin: 0 auto;
 }
