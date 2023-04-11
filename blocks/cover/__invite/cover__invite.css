@@ -1,0 +1,9 @@
+.cover__invite {
+  max-width: 41rem;
+  max-height: 15.875rem;
+  margin: 15.188rem auto;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  align-items: center;
+}

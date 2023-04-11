@@ -1,9 +1,11 @@
 @import url(/vendor/normalize.css);
 @import url(/vendor/fonts/fonts.css);
 @import url(/blocks/root/root.css);
+
 @import url(/blocks/button/button.css);
 @import url(/blocks/button/_gales/button_gales.css);
 @import url(/blocks/button/_burundi/button_burundi.css);
+@import url(/blocks/button/__cover/button__cover.css);
 
 /* --------------PAGE--------------- */
 @import url(/blocks/page/page.css);
@@ -46,3 +48,10 @@
 @import url(/blocks/places/__image/places__image.css);
 @import url(/blocks/places/__description/places__description.css);
 @import url(/blocks/places/__text/places__text.css);
+
+/* --------------PLACES--------------- */
+@import url(/blocks/cover/cover.css);
+@import url(/blocks/cover/__overlay/cover__overlay.css);
+@import url(/blocks/cover/__invite/cover__invite.css);
+@import url(/blocks/cover/__title/cover__title.css);
+@import url(/blocks/cover/__address/cover__adress.css);
