@@ -1,8 +1,13 @@
 @import url(/vendor/normalize.css);
-
 @import url(/vendor/fonts/fonts.css);
 @import url(/blocks/root/root.css);
+@import url(/blocks/button/button.css);
+@import url(/blocks/button/_gales/button_gales.css);
+@import url(/blocks/button/_burundi/button_burundi.css);
+
+/* --------------PAGE--------------- */
 @import url(/blocks/page/page.css);
+
 /* --------------HEADER--------------- */
 @import url(/blocks/header/header.css);
 @import url(/blocks/logo/logo.css);
@@ -28,3 +33,16 @@
 @import url(/blocks/photo-grid/__table/photo-grid__table.css);
 @import url(/blocks/photo-grid/__item/photo-grid__item.css);
 @import url(/blocks/photo-grid/__image/photo-grid__image.css);
+
+/* --------------PLACES--------------- */
+@import url(/blocks/places/places.css);
+@import url(/blocks/places/__container/places__container.css);
+@import url(/blocks/places/__header/places__header.css);
+@import url(/blocks/places/__title/places__title.css);
+@import url(/blocks/places/__title/_gales/places__title_gales.css);
+@import url(/blocks/places/__subtitles-column/places__subtitles-column.css);
+@import url(/blocks/places/__artist/places__artist.css);
+@import url(/blocks/places/__author/places__author.css);
+@import url(/blocks/places/__image/places__image.css);
+@import url(/blocks/places/__description/places__description.css);
+@import url(/blocks/places/__text/places__text.css);

@@ -1,0 +1,6 @@
+.places__description {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5625rem;
+  max-width: 30.25rem;
+}
