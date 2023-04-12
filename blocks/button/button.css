@@ -11,3 +11,7 @@
   font-weight: 600;
   line-height: 1.375rem;
 }
+
+.button:hover {
+  background-color: #0063d2;
+}
