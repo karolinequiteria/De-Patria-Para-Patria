@@ -1,0 +1,12 @@
+@media screen and (max-width: 48rem) {
+}
+.places__description_gales {
+  gap: 1.563rem;
+}
+
+@media screen and (max-width: 20rem) {
+}
+.places__description_gales {
+  gap: 0.625rem;
+  margin: 0 auto 0.438rem;
+}

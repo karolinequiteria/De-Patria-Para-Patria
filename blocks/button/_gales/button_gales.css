@@ -1,4 +1,12 @@
-.button_gales {
-  position: relative;
-  top: -1.938rem;
+@media screen and (width: 80rem) {
+  .button_gales {
+    margin: -1.063rem auto 0;
+  }
+}
+
+@media screen and (width: 48rem) {
+  .button_gales {
+    position: relative;
+    top: -9.3rem;
+  }
 }

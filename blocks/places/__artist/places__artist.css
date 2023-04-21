@@ -1,8 +1,15 @@
 .places__artist {
   font-size: 0.75rem;
   font-weight: 400;
-  line-height: 0.9375rem;
-  letter-spacing: 0.12rem;
+  line-height: 0.938rem;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
   color: #aaa;
+  max-width: 4.188rem;
+}
+
+@media screen and (max-width: 20rem) {
+  .places__artist {
+    max-width: 18rem;
+  }
 }

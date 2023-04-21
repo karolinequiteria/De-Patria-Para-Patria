@@ -7,8 +7,11 @@
 
 /* --------------BUTTON--------------- */
 @import url(/blocks/button/button.css);
+@import url(/blocks/button/_kiev/button_kiev.css);
 @import url(/blocks/button/_gales/button_gales.css);
+@import url(/blocks/button/_berea/button_berea.css);
 @import url(/blocks/button/_burundi/button_burundi.css);
+@import url(/blocks/button/_sao-paulo/button_sao-paulo.css);
 @import url(/blocks/button/_cover/button_cover.css);
 
 /* --------------COPYRIGHTS--------------- */
@@ -43,14 +46,21 @@
 /* --------------PLACES--------------- */
 @import url(/blocks/places/places.css);
 @import url(/blocks/places/__container/places__container.css);
+@import url(/blocks/places/__container/_kiev/places__container_kiev.css);
+@import url(/blocks/places/__container/_gales/places__container_gales.css);
 @import url(/blocks/places/__header/places__header.css);
 @import url(/blocks/places/__title/places__title.css);
+@import url(/blocks/places/__title/_kiev/places__title_kiev.css);
 @import url(/blocks/places/__title/_gales/places__title_gales.css);
 @import url(/blocks/places/__subtitles-column/places__subtitles-column.css);
+@import url(/blocks/places/__subtitles-column/_kiev/places__subtitles-column_kiev.css);
 @import url(/blocks/places/__artist/places__artist.css);
 @import url(/blocks/places/__author/places__author.css);
 @import url(/blocks/places/__image/places__image.css);
 @import url(/blocks/places/__description/places__description.css);
+@import url(/blocks/places/__description/_kiev/places__description_kiev.css);
+@import url(/blocks/places/__description/_gales/places__description_gales.css);
+@import url(/blocks/places/__description/_burundi/places__description_burundi.css);
 @import url(/blocks/places/__text/places__text.css);
 
 /* --------------COVER--------------- */

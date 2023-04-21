@@ -1,0 +1,7 @@
+@media screen and (width: 48rem) {
+  .places__container_gales {
+    max-width: 45.813rem;
+    grid-row-gap: 0;
+    margin: 0 auto;
+  }
+}

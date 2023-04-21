@@ -4,3 +4,15 @@
   gap: 1.5625rem;
   max-width: 30.25rem;
 }
+
+@media screen and (max-width: 48rem) {
+  .places__description {
+    max-width: 22rem;
+  }
+}
+
+@media screen and (max-width: 20rem) {
+  .places__description {
+    max-width: 18rem;
+  }
+}

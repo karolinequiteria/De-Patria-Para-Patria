@@ -1,0 +1,7 @@
+@media screen and (width: 48rem) {
+  .places__container_kiev {
+    max-width: 45.813rem;
+    margin: 0 0.688rem 0 1.5rem;
+    row-gap: 0;
+  }
+}

@@ -2,3 +2,16 @@
   max-width: 74rem;
   margin: 0 auto 5.75rem;
 }
+
+@media screen and (max-width: 48rem) {
+  .photo-grid {
+    margin: 0 auto 5.5rem;
+  }
+}
+
+@media screen and (min-width: 20rem) and (max-width: 27rem) {
+  .photo-grid {
+    margin: 0 auto 3.875rem;
+    max-width: 18rem;
+  }
+}

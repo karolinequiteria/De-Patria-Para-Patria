@@ -3,3 +3,14 @@
   right: 0.125rem;
   bottom: -0.625rem;
 }
+
+@media screen and (min-width: 20rem) and (max-width: 26.563rem) {
+  .intro__quote-author {
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 0.625rem;
+    right: 0;
+    bottom: 0;
+  }
+}

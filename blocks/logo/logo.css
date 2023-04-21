@@ -2,3 +2,10 @@
   max-width: 16.875rem;
   margin: 2.125rem auto 5.625rem;
 }
+
+@media screen and (min-width: 20rem) and (max-width: 26.563rem) {
+  .logo {
+    max-width: 12.5rem;
+    margin: 1.25rem auto 3.125rem;
+  }
+}

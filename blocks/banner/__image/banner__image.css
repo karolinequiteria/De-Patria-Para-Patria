@@ -1,6 +1,18 @@
 .banner__image {
-  width: 100%;
-  height: 38.4375rem;
+  max-width: 100%;
+  max-height: 100%;
   background-size: cover;
   filter: grayscale(100%);
+}
+
+@media screen and (max-width: 48rem) {
+  .banner__image {
+    max-width: 48rem;
+  }
+}
+
+@media screen and (min-width: 20rem) and (max-width: 26.563rem) {
+  .banner__image {
+    width: 100%;
+  }
 }

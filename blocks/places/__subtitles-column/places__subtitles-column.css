@@ -3,4 +3,20 @@
   flex-direction: column;
   justify-content: flex-end;
   gap: 0.5rem;
+  max-width: 28.5rem;
+}
+
+@media screen and (max-width: 48rem) {
+  .places__subtitles-column {
+    max-width: 22rem;
+    justify-content: flex-start;
+  }
+}
+
+@media screen and (max-width: 20rem) {
+  .places__subtitles-column {
+    width: 18rem;
+    gap: 0.5rem;
+    margin-bottom: 1.875rem;
+  }
 }

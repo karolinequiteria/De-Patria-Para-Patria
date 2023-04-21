@@ -2,4 +2,23 @@
   font-size: 4.5rem;
   font-weight: 900;
   line-height: 4.75rem;
+  max-width: 30.25rem;
+}
+
+@media screen and (max-width: 48rem) {
+  .places__title {
+    max-width: 21.25rem;
+    font-size: 2.625rem;
+    font-weight: 900;
+    line-height: 2.875rem;
+  }
+}
+
+@media screen and (max-width: 20rem) {
+  .places__title {
+    width: 18rem;
+    margin-bottom: 1.875rem;
+    font-size: 2rem;
+    line-height: 2.188rem;
+  }
 }

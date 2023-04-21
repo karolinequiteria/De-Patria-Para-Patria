@@ -1,8 +1,17 @@
 .cover__overlay {
   width: 100%;
+  min-height: 46.25rem;
   background-color: #2a2c2f4d;
   transition: background-color 0.2s ease-in-out;
+  display: flex;
+  align-items: center;
 }
 .cover__overlay:hover {
   background-color: #2a2c2fcc;
+}
+
+@media screen and (min-width: 20rem) and (max-width: 27rem) {
+  .cover__overlay {
+    min-height: 15.875rem;
+  }
 }

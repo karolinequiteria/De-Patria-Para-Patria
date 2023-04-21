@@ -1,7 +1,21 @@
 .places {
-  max-width: 61.5rem;
+  max-width: 61.688rem;
   display: flex;
   flex-direction: column;
   gap: 5rem;
   margin: 0 auto 5.75rem;
+}
+
+@media screen and (max-width: 48rem) {
+  .places {
+    gap: 0;
+    margin: 0;
+  }
+}
+
+@media screen and (max-width: 20rem) {
+  .places {
+    gap: 3.125rem;
+    margin: 0 auto 4rem;
+  }
 }

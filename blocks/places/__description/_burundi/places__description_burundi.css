@@ -1,0 +1,5 @@
+@media screen and (max-width: 48rem) {
+  .places__description_burundi {
+    gap: 0.75rem;
+  }
+}

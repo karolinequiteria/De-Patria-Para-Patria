@@ -1,5 +1,18 @@
 .places__image {
-  width: 100%;
-  min-height: 28.75rem;
-  background-size: cover;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 48rem) {
+  .places__image {
+    max-width: 21.25rem;
+  }
+}
+
+@media screen and (max-width: 20rem) {
+  .places__image {
+    max-width: 100%;
+    margin-bottom: 1.875rem;
+  }
 }

@@ -4,3 +4,17 @@
   max-width: 63.5625rem;
   margin: 0 auto 5.75rem;
 }
+
+@media screen and (max-width: 48rem) {
+  .intro {
+    max-width: 45rem;
+    margin: 0 auto 4rem;
+  }
+}
+
+@media screen and (min-width: 20rem) and (max-width: 27rem) {
+  .intro {
+    max-width: 18rem;
+    margin: 0 auto 2.375rem;
+  }
+}

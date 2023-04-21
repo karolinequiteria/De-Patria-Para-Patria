@@ -1,16 +1,12 @@
-.button_burundi {
-  position: relative;
-  top: -10.5rem;
-}
-
 @media screen and (max-width: 48rem) {
-  .button_burundi {
-    top: -21rem;
+  .button_sao-paulo {
+    position: relative;
+    top: -8rem;
   }
 }
 
 @media screen and (max-width: 20rem) {
-  .button_burundi {
+  .button_sao-paulo {
     position: static;
     margin-top: 1.875rem;
   }

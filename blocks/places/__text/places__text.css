@@ -2,5 +2,20 @@
   font-size: 1.125rem;
   line-height: 1.8337rem;
   font-weight: 400;
-  min-width: 30.25rem;
+  max-width: 30.25rem;
+}
+
+@media screen and (max-width: 48rem) {
+  .places__text {
+    font-size: 1rem;
+    max-width: 22rem;
+    line-height: 1.63rem;
+  }
+}
+
+@media screen and (max-width: 20rem) {
+  .places__text {
+    font-size: 1rem;
+    max-width: 18rem;
+  }
 }

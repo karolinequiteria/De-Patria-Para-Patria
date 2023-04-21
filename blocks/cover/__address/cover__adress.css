@@ -6,3 +6,10 @@
   width: 17.5rem;
   text-align: center;
 }
+
+@media screen and (min-width: 20rem) and (max-width: 27rem) {
+  .cover__address {
+    font-size: 0.875rem;
+    line-height: 1rem;
+  }
+}

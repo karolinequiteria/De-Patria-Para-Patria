@@ -1,0 +1,13 @@
+@media screen and (max-width: 48rem) {
+  .button_berea {
+    position: relative;
+    top: -9.5rem;
+  }
+}
+
+@media screen and (max-width: 20rem) {
+  .button_berea {
+    position: static;
+    margin-top: 0.563rem;
+  }
+}

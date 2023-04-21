@@ -4,3 +4,10 @@
   font-weight: 900;
   color: #fffdfd;
 }
+
+@media screen and (min-width: 20rem) and (max-width: 27rem) {
+  .cover__title {
+    font-size: 2rem;
+    line-height: 2.188rem;
+  }
+}

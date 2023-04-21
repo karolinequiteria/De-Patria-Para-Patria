@@ -4,5 +4,20 @@
   min-height: 46.25rem;
   background-image: url(/images/cover/cover.jpg);
   background-size: cover;
-  margin: 0 auto 5.75rem;
+  align-items: center;
+  margin-bottom: 5.75rem;
+}
+
+@media screen and (max-width: 48rem) {
+  .cover {
+    margin-bottom: 5.5rem;
+  }
+}
+
+@media screen and (max-width: 20rem) {
+  .cover {
+    min-width: 20rem;
+    min-height: 15.875rem;
+    margin: 0 auto 4rem;
+  }
 }
