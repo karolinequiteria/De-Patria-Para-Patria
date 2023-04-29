@@ -17,3 +17,5 @@
 
 - Regras de classes e estrutura de aquivos utilizando o modelo BEM. 
 
+[Acesse o site aqui!](https://karolinequiteria.github.io/web_project_3_ptbr/)
+
