@@ -1,74 +1,74 @@
-@import url(/vendor/normalize.css);
-@import url(/vendor/fonts/fonts.css);
-@import url(/blocks/root/root.css);
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
+@import url(../blocks/root/root.css);
 
 /* --------------PAGE--------------- */
-@import url(/blocks/page/page.css);
+@import url(../blocks/page/page.css);
 
 /* --------------BUTTON--------------- */
-@import url(/blocks/button/button.css);
-@import url(/blocks/button/_kiev/button_kiev.css);
-@import url(/blocks/button/_gales/button_gales.css);
-@import url(/blocks/button/_berea/button_berea.css);
-@import url(/blocks/button/_burundi/button_burundi.css);
-@import url(/blocks/button/_sao-paulo/button_sao-paulo.css);
-@import url(/blocks/button/_cover/button_cover.css);
+@import url(../blocks/button/button.css);
+@import url(../blocks/button/_kiev/button_kiev.css);
+@import url(../blocks/button/_gales/button_gales.css);
+@import url(../blocks/button/_berea/button_berea.css);
+@import url(../blocks/button/_burundi/button_burundi.css);
+@import url(../blocks/button/_sao-paulo/button_sao-paulo.css);
+@import url(../blocks/button/_cover/button_cover.css);
 
 /* --------------COPYRIGHTS--------------- */
-@import url(/blocks/copyrights/copyrights.css);
+@import url(../blocks/copyrights/copyrights.css);
 
 /* --------------HEADER--------------- */
-@import url(/blocks/header/header.css);
-@import url(/blocks/logo/logo.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/logo/logo.css);
 
 /* --------------CONTENT--------------- */
-@import url(/blocks/content/content.css);
+@import url(../blocks/content/content.css);
 
 /* --------------BANNER--------------- */
-@import url(/blocks/banner/banner.css);
-@import url(/blocks/banner/__title/banner__title.css);
-@import url(/blocks/banner/__subtitle/banner__subtitle.css);
-@import url(/blocks/banner/__image/banner__image.css);
+@import url(../blocks/banner/banner.css);
+@import url(../blocks/banner/__title/banner__title.css);
+@import url(../blocks/banner/__subtitle/banner__subtitle.css);
+@import url(../blocks/banner/__image/banner__image.css);
 
 /* --------------INTRO--------------- */
-@import url(/blocks/intro/intro.css);
-@import url(/blocks/intro/__title/intro__title.css);
-@import url(/blocks/intro/__quote/intro__quote.css);
-@import url(/blocks/intro/__quote-author/intro__quote-author.css);
-@import url(/blocks/intro/__text/intro__text.css);
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__quote/intro__quote.css);
+@import url(../blocks/intro/__quote-author/intro__quote-author.css);
+@import url(../blocks/intro/__text/intro__text.css);
 
 /* --------------PHOTO-GRID--------------- */
-@import url(/blocks/photo-grid/photo-grid.css);
-@import url(/blocks/photo-grid/__table/photo-grid__table.css);
-@import url(/blocks/photo-grid/__item/photo-grid__item.css);
-@import url(/blocks/photo-grid/__image/photo-grid__image.css);
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/photo-grid/__table/photo-grid__table.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
+@import url(../blocks/photo-grid/__image/photo-grid__image.css);
 
 /* --------------PLACES--------------- */
-@import url(/blocks/places/places.css);
-@import url(/blocks/places/__container/places__container.css);
-@import url(/blocks/places/__container/_kiev/places__container_kiev.css);
-@import url(/blocks/places/__container/_gales/places__container_gales.css);
-@import url(/blocks/places/__header/places__header.css);
-@import url(/blocks/places/__title/places__title.css);
-@import url(/blocks/places/__title/_kiev/places__title_kiev.css);
-@import url(/blocks/places/__title/_gales/places__title_gales.css);
-@import url(/blocks/places/__subtitles-column/places__subtitles-column.css);
-@import url(/blocks/places/__subtitles-column/_kiev/places__subtitles-column_kiev.css);
-@import url(/blocks/places/__artist/places__artist.css);
-@import url(/blocks/places/__author/places__author.css);
-@import url(/blocks/places/__image/places__image.css);
-@import url(/blocks/places/__description/places__description.css);
-@import url(/blocks/places/__description/_kiev/places__description_kiev.css);
-@import url(/blocks/places/__description/_gales/places__description_gales.css);
-@import url(/blocks/places/__description/_burundi/places__description_burundi.css);
-@import url(/blocks/places/__text/places__text.css);
+@import url(../blocks/places/places.css);
+@import url(../blocks/places/__container/places__container.css);
+@import url(../blocks/places/__container/_kiev/places__container_kiev.css);
+@import url(../blocks/places/__container/_gales/places__container_gales.css);
+@import url(../blocks/places/__header/places__header.css);
+@import url(../blocks/places/__title/places__title.css);
+@import url(../blocks/places/__title/_kiev/places__title_kiev.css);
+@import url(../blocks/places/__title/_gales/places__title_gales.css);
+@import url(../blocks/places/__subtitles-column/places__subtitles-column.css);
+@import url(../blocks/places/__subtitles-column/_kiev/places__subtitles-column_kiev.css);
+@import url(../blocks/places/__artist/places__artist.css);
+@import url(../blocks/places/__author/places__author.css);
+@import url(../blocks/places/__image/places__image.css);
+@import url(../blocks/places/__description/places__description.css);
+@import url(../blocks/places/__description/_kiev/places__description_kiev.css);
+@import url(../blocks/places/__description/_gales/places__description_gales.css);
+@import url(../blocks/places/__description/_burundi/places__description_burundi.css);
+@import url(../blocks/places/__text/places__text.css);
 
 /* --------------COVER--------------- */
-@import url(/blocks/cover/cover.css);
-@import url(/blocks/cover/__overlay/cover__overlay.css);
-@import url(/blocks/cover/__invite/cover__invite.css);
-@import url(/blocks/cover/__title/cover__title.css);
-@import url(/blocks/cover/__address/cover__adress.css);
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__overlay/cover__overlay.css);
+@import url(../blocks/cover/__invite/cover__invite.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__address/cover__adress.css);
 
 /* --------------FOOTER--------------- */
-@import url(/blocks/footer/footer.css);
+@import url(../blocks/footer/footer.css);
