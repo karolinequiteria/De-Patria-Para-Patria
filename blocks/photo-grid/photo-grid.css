@@ -1,17 +1,26 @@
 .photo-grid {
   max-width: 74rem;
-  margin: 0 auto 5.75rem;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 16px;
+  margin: 0;
 }
 
-@media screen and (max-width: 48rem) {
+@media screen and (max-width: 1314px) {
   .photo-grid {
     margin: 0 auto 5.5rem;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(4, 1fr);
   }
 }
 
-@media screen and (min-width: 20rem) and (max-width: 27rem) {
+@media screen and (max-width: 766px) {
   .photo-grid {
     margin: 0 auto 3.875rem;
     max-width: 18rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
   }
 }
